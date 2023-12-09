@@ -1,0 +1,10 @@
+.main{
+    margin-top: 50px;
+}
+#register-btn{
+    background-color: #333;
+    border: none;
+}
+#signin{
+    color: #333;
+}
